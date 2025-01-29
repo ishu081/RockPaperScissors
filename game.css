@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    }
+    
+    .container{
+        width: 500px;
+        height: 500px;
+        border: 1px solid white;
+        margin: 4rem 44rem ;
+        background-color: whitesmoke;
+        overflow: hidden;
+        padding: 30px;
+        border-radius: 5px;
+    
+    }
+    
+    .topic{
+        color: whitesmoke;
+        text-align: center;
+        font-family: fantasy;
+        margin-top: 2.5rem;
+        font-size: 10rem;
+    }
+    
+    body{
+      background-color: black;
+    }
+    
+    .con{
+        text-align: center;
+    }
+    
+    
+    .call{
+       border: 2px solid black;
+       text-align: center;
+       margin-left: 11rem;
+       margin-top: 2rem;
+       border-radius: 3px;
+       width: 8rem;
+    }
+    
+    .buttonn{
+        background-color: black;
+        border: 2px;
+        color: white;
+        padding: 4px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 16px 186px;
+        cursor: pointer;
+        border-radius: 11px;
+        transition: background-color 0.3s ease;
+    }
+    
+    .pic{
+        border: 1px solid white;
+        border-radius: 3px;
+        width: 20rem;
+        height:  15rem;
+        margin: 1.5rem 5em;
+    
+    }
+    
+    .output {
+        font-size: 20px;
+        font-weight: bold;
+        margin-left: 11rem;
+        color: black;
+    }
+    
+    #picture{
+        margin-left: 2rem;
+        margin-top: -1rem;
+        text-align: center;
+    
+    }
