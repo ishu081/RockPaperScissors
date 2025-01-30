@@ -44,7 +44,7 @@ function checkOutput() {
     } 
     else if (b < 0.66) {  
        choice = "scissors"
-       document.getElementById("picture").src="scissors.jpg";
+       document.getElementById("picture").src="scissor.jpg";
     }
     else {
         choice = "paper"
